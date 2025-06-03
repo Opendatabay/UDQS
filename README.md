@@ -1,37 +1,37 @@
 # Universal Data Quality Score 
-## UDQSS
+## UDQS
 
 > *"Have a bias toward action—let’s see something happen now. 
 You can break that big plan into small steps and take the first step right away."
 ~ Indira Gandhi*
 
-<img width="1553" alt="UDQSS" src="https://github.com/user-attachments/assets/4738cfb2-a00d-40c1-80d4-80b505f3161c">
+<img width="1553" alt="UDQS" src="https://github.com/user-attachments/assets/4738cfb2-a00d-40c1-80d4-80b505f3161c">
 
 
 
 ## Overview
 
-UDQSS is an open-source standard for evaluating and scoring data quality across different domains. It provides a comprehensive framework to assess, measure, and benchmark the quality of datasets using standardized criteria.
+UDQS is an open-source standard for evaluating and scoring data quality across different domains. It provides a comprehensive framework to assess, measure, and benchmark the quality of datasets using standardized criteria.
 
 ## Purpose
 
 - Establish a universal standard for data quality assessment
 - Enable consistent quality benchmarking across datasets
 - Provide tools and templates for easy quality evaluation
-- Support customization for domain-specific requirements
+- Support customisation for domain-specific requirements
 - Foster transparency in data quality metrics
 
 ## Repository Structure
 
 ```
-udqss/
+UDQS/
 ├── docs/                    # Documentation
 │   ├── parameters.md       # Quality parameters
 │   ├── scoring-guide.md    # Scoring methodology
-│   └── customization.md    # Customization guide
+│   └── customization.md    # Customisation guide
 ├── templates/              # Ready-to-use templates
-│   ├── udqss-questionnaire.pdf
-│   └── udqss-template.xlsx
+│   ├── UDQS-questionnaire.pdf
+│   └── UDQS-template.xlsx
 ├── examples/               # Implementation examples
 │   ├── healthcare-data/
 │   ├── financial-data/
@@ -48,7 +48,7 @@ udqss/
 
 ## Scoring System
 
-UDQSS evaluates datasets across multiple dimensions including:
+UDQS evaluates datasets across multiple dimensions,including:
 
 - Data Completeness
 - Data Accuracy
@@ -58,7 +58,7 @@ UDQSS evaluates datasets across multiple dimensions including:
 - Documentation Quality
 - Format Compliance
 
-Each dimension is scored on a standardized scale, with detailed scoring criteria available in the scoring guide.
+Each dimension is scored on a standardised scale, with detailed scoring criteria available in the scoring guide.
 
 ## Templates
 
@@ -68,7 +68,7 @@ Each dimension is scored on a standardized scale, with detailed scoring criteria
 
 ## Customization
 
-UDQSS can be adapted for specific domains while maintaining compatibility with the core standard. See [customization.md](docs/customization.md) for guidelines.
+UDQS can be adapted for specific domains while maintaining compatibility with the core standard. See [customization.md](docs/customization.md) for guidelines.
 
 ## Contributing
 
@@ -98,10 +98,10 @@ Complete documentation is available in the `docs/` directory:
 
 ## Acknowledgments
 
-UDQSS is a community-driven project aimed at improving data quality standards across industries. Originally initiated by [Opendatabay](https://opendatabay.com) as part of their mission to advance data quality standards, the project has grown into a collaborative, open-source effort.
+UDQS is a community-driven project aimed at improving data quality standards across industries. Originally initiated by [Opendatabay](https://opendatabay.com) as part of their mission to advance data quality standards, the project has grown into a collaborative, open-source effort.
 
 We extend our gratitude to all contributors who continue to support and enhance this framework, ensuring its transparency, accessibility, and universal applicability.
 
 ---
 
-For more information, visit [udqss.org](https://udqss.org) (Coming soon)
+For more information, visit [UDQS.org](https://UDQS.org) (Coming soon)
